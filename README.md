@@ -1,29 +1,27 @@
 
 # APInt Code Tournament
 
-> Learn code 💻 by playing in game tournaments 😛.
+> Learn code 💻 by playing in game tournaments 😛.  
 
-My name is Eloi Stree and I want to have fun organising coding tournaments and teach for a living.
+My name is Eloi Stree and I want to have fun organising coding tournaments and teach for a living.   
 
-I am going to organise two kinds of online tournaments:
-
-* Godot Engine Tournament: We create the game of the tournament.
-* Game Hack Tournament: We "hack" a game to propose only code speedruns.
+I am going to organise two kinds of online tournaments:  
+* Godot Engine Tournament: We create the game of the tournament.   
+* Game Hack Tournament: We "hack" a game to propose only code speedruns.  
 
 **Next Hacked Game:**
-
 * 10 Second Ninja: Easy to learn
 
 **Next Godot Game:**
-
 * Artillery DOS XR: Because we need a Proof Of Concept that is easy to implement and can stand the test of time
 * Global Game Jam: Mystery box
 
 **For a living:**
 
-Outside of my simple curiosity: <img width="600" height="599" alt="image" src="https://github.com/user-attachments/assets/df6f7c7b-f533-4af6-94a5-30748d019193" />
-I am a freelance teacher through [SMArtBe](https://smartbe.be/en/), and this project is designed to teach in classrooms 😋.
-I can't wait for the project to be ready enough to be used in an auditorium or in a cinema.
+Outside of my simple curiosity:    
+<img width="600" height="599" alt="image" src="https://github.com/user-attachments/assets/df6f7c7b-f533-4af6-94a5-30748d019193" />  
+I am a freelance teacher through [SMArtBe](https://smartbe.be/en/), and this project is designed to teach in classrooms 😋.   
+I can't wait for the project to be ready enough to be used in an auditorium or in a cinema.  
 
 **Basic Mechanic:**
 
