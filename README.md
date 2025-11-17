@@ -27,7 +27,8 @@ _(2) I organised a LAN party at my 20th birthday and I would like to organise a 
 * Liftoff: Society needs junior devs that can move drones with code  
 
 **Next Godot Game:**
-* Artillery DOS XR: Because we need a Proof Of Concept that is easy to implement and can stand the test of time    
+* Artillery DOS XR: Because we need a Proof Of Concept that is easy to implement and can stand the test of time
+* Drone Bullet Hell: Because it can be easy code and fun to play on a multiplayer scope.
 * Global Game Jam: Mystery box    
 * Warcraft Fan-Based Battle: Because I love Warcraft 3 and think that Perma-MMØ STR as a code tournament could be fun    
 
