@@ -1,52 +1,56 @@
+
 # APInt Code Tournament
 
-> Learn code 💻 by playing in game tournaments 😛.   
+> Learn code 💻 by playing in game tournaments 😛.
 
-My name is Eloi Stree and I want to have fun organising coding tournaments and teach for a living.  
+My name is Eloi Stree and I want to have fun organising coding tournaments and teach for a living.
 
-If you are here as a learner, it means that you are ready to `print` your first `Hello World`.  
-Or that you are here because you want to battle in the tournaments.  
+I am going to organise two kinds of online tournaments:
 
-I am going to organise two kinds of online tournaments:  
+* Godot Engine Tournament: We create the game of the tournament.
+* Game Hack Tournament: We "hack" a game to propose only code speedruns.
 
-* Godot Engine Tournament: We create the game you are playing on  
-* Game Hack Tournament: We "hack" a game to play on as a challenge or speedrun format  
+**Next Hacked Game:**
 
-There are two important tournament milestone dates:  
-
-* Last week of January: Global Game Jam (1)  
-* The 12th of July: My birthday 😛 (2)  
-
-_(1) I want to create a game for this project every year during the Global Game Jam and make a tournament after it._     
-_(2) I organised a LAN party at my 20th birthday and I would like to organise a real-life code tournament at my 40th and 50th (2029–2039)._    
-
-**Next Hacked Game:**  
-* 10 Second Ninja: Easy to learn  
-* Hollow Knight: Good challenge(s)   
-* World of Warcraft: Learn about movement and rotation through time  
-* Liftoff: Society needs junior devs that can move drones with code  
+* 10 Second Ninja: Easy to learn
 
 **Next Godot Game:**
+
 * Artillery DOS XR: Because we need a Proof Of Concept that is easy to implement and can stand the test of time
-* Drone Bullet Hell: Because it can be easy code and fun to play on a multiplayer scope.
-* Global Game Jam: Mystery box    
-* Warcraft Fan-Based Battle: Because I love Warcraft 3 and think that Perma-MMØ STR as a code tournament could be fun    
+* Global Game Jam: Mystery box
 
-**Sponsor and Teaching:**  
+**For a living:**
 
-I am a freelance teacher with not a good plan ahead.     
-The project is open source and under the [Beerware license](https://en.wikipedia.org/wiki/Poul-Henning_Kamp#Beerware).   
-The main income for me and the people helping is going to be, I suppose:  
-* Tournament sponsors  
-* Workshops in universities and secondary schools  
-* Workshops on weekends in Brussels  
+Outside of my simple curiosity: <img width="600" height="599" alt="image" src="https://github.com/user-attachments/assets/df6f7c7b-f533-4af6-94a5-30748d019193" />
+I am a freelance teacher through [SMArtBe](https://smartbe.be/en/), and this project is designed to teach in classrooms 😋.
+I can't wait for the project to be ready enough to be used in an auditorium or in a cinema.
 
-Hope you have fun with us in this project.    
-Feel free to ping me on the Eloi Teaching Discord:    
-[https://discord.gg/pvRjyNQEDp](https://discord.gg/pvRjyNQEDp)    
+**Basic Mechanic:**
 
---------------------------
+The concept is "simple":
+Your code is dropped on a Pico 2W in CircuitPython, isolated on the network.
+
+* It receives UDP text and bytes as the context of the current game state.
+  * You need to read the manual of the game to know how to use them.
+* Your code must send keyboard and gamepad input in this [S2W format](https://github.com/EloiStree/2024_08_29_ScratchToWarcraft).
+  * If it is a Godot game, your input is simulated as a player to make an MMO-style contest.
+  * If it is a hack tournament, your input is converted into real input on the device.
+
+To publish your code, you need to hash and sign it with ECC or RSA.
+The idea here is that it allows us to identify in whose name you are playing in the tournament.
+
+I am a teacher and we are here to learn.
+All those words 🤪 are going to become videos to teach you what they mean.
+That is the point of this exercise.
+
+**Contact Me:**
+Hope you have fun with us in this project.
+Feel free to ping me on the Eloi Teaching Discord:
+[https://discord.gg/pvRjyNQEDp](https://discord.gg/pvRjyNQEDp)
 
 
+**Offline vs realtime online**  
 
+Execute code of random user is dangerous, that why I am going in an offline LAN tournament.  
+But my aim is to make mixed of those.  
 
