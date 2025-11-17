@@ -15,8 +15,8 @@ There are two important tournament milestone date:
 - Last week of Janury: Global Game Jam (1)
 - The 12th July: My birthday 😛 (2)
 
-(1) I want to create a game for this project every year during the global game jam and make a tournament after it.
-(2) I organised a LAN party at my 20 years old and I would like to orgnaise a real life code tournament at my 40 and 50 (2029-2039)
+(1) I want to create a game for this project every year during the global game jam and make a tournament after it   
+(2) I organised a LAN party at my 20 years old and I would like to orgnaise a real life code tournament at my 40 and 50 (2029-2039)  
 
 
 **Next Hacked Game:**
