@@ -52,3 +52,19 @@ Feel free to ping me on the Eloi Teaching Discord:
 Execute code of random user is dangerous, that why I am going in an offline LAN tournament.  
 But my aim is to make mixed of those.  
 
+
+# Where to start ?
+
+Let's learn to hack a game outside of the tournament with Python or/and Godot.
+
+Five games to train on with Godot and [S2W](https://github.com/EloiStree/2024_08_29_ScratchToWarcraft)  
+- 10 Seconds Ninja : Easy to start on  
+- Steath Bastard : Same but with a story  
+- Hollow Knight : To learn about gamepad simulation
+- Lifeoff : To learn what is the concept of telemetry
+- World of Warcraft : Let's kill Hogger and Edwin VanCleef with code
+
+<img width="693" height="519" alt="image" src="https://github.com/user-attachments/assets/d7d4cc6f-07a6-4b69-8f14-68b2744cd101" />
+
+
+
