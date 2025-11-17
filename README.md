@@ -28,18 +28,18 @@ I can't wait for the project to be ready enough to be used in an auditorium or i
 The concept is "simple":
 Your code is dropped on a Pico 2W in CircuitPython, isolated on the network.
 
-* It receives UDP text and bytes as the context of the current game state.
-  * You need to read the manual of the game to know how to use them.
+* It receives UDP text and bytes as the context of the current game state.   
+  * You need to read the manual of the game to know how to use them.     
 * Your code must send keyboard and gamepad input in this [S2W format](https://github.com/EloiStree/2024_08_29_ScratchToWarcraft).
-  * If it is a Godot game, your input is simulated as a player to make an MMO-style contest.
-  * If it is a hack tournament, your input is converted into real input on the device.
+  * If it is a Godot game, your input is simulated as a player to make an MMO-style contest.    
+  * If it is a hack tournament, your input is converted into real input on the device.    
 
-To publish your code, you need to hash and sign it with ECC or RSA.
-The idea here is that it allows us to identify in whose name you are playing in the tournament.
+To publish your code, you need to hash and sign it with ECC or RSA.   
+The idea here is that it allows us to identify in whose name you are playing in the tournament.   
 
-I am a teacher and we are here to learn.
-All those words 🤪 are going to become videos to teach you what they mean.
-That is the point of this exercise.
+I am a teacher and we are here to learn.   
+All those words 🤪 are going to become videos to teach you what they mean.   
+That is the point of this exercise.  
 
 **Contact Me:**
 Hope you have fun with us in this project.
