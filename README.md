@@ -2,7 +2,7 @@
 
 > Learn code 💻 by playing in game tournaments 😛.   
 
-My name is Eloi Stree and I want to have fun organising coding tournaments and teach code for a living.  
+My name is Eloi Stree and I want to have fun organising coding tournaments and teach for a living.  
 
 If you are here as a learner, it means that you are ready to `print` your first `Hello World`.  
 Or that you are here because you want to battle in the tournaments.  
