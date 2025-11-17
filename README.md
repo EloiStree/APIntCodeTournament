@@ -43,7 +43,7 @@ The main income for me and the people helping is going to be, I suppose:
 * Workshops in universities and secondary schools
 * Workshops on weekends in Brussels
 
-Hope you have fun with us in this project.
-Feel free to ping me on the Eloi Teaching Discord:
-[https://discord.gg/pvRjyNQEDp](https://discord.gg/pvRjyNQEDp)
+Hope you have fun with us in this project.  
+Feel free to ping me on the Eloi Teaching Discord:  
+[https://discord.gg/pvRjyNQEDp](https://discord.gg/pvRjyNQEDp)  
 
