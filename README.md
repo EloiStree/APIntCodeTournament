@@ -14,6 +14,7 @@ I am going to organise two kinds of online tournaments:
 
 **Next Godot Game:**
 * Artillery DOS XR: Because we need a Proof Of Concept that is easy to implement and can stand the test of time
+* 10 Seconds Drone : Copy of the concept 10 Seconds Ninja, a workshop to learn how to use Godot with drone.
 * Global Game Jam: Mystery box
 
 **For a living:**
