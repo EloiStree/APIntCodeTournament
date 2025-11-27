@@ -1,4 +1,6 @@
-**Live DDNS**: [code-tournament-output.ddns.net](https://code-tournament-output.ddns.net) • [code-tournament-input.ddns.net](https://code-tournament-input.ddns.net) • [apint.ddns.net](https://apint.ddns.net)  
+**Live DDNS**: 
+[code-tournament-output.ddns.net](https://code-tournament-output.ddns.net) • [code-tournament-input.ddns.net](https://code-tournament-input.ddns.net)  
+[apint.ddns.net](https://apint.ddns.net)• [apint-dev.ddns.net](https://apint-dev.ddns.net)    
 _It’s just a POC/WIP right now—no DDoS protection yet, so please go easy on it._  
 
 ----------------
