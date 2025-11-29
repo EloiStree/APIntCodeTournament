@@ -102,3 +102,6 @@ Delete or Do:
 
 Interact with wow:
 - https://github.com/EloiStree/2025_07_23_WowAddonTextToColorTelemetry
+Interact with Godot and Unity3D
+- https://youtu.be/tiBhuXFUcpE
+- https://youtu.be/1WNZ1vsFwXY?t=260
