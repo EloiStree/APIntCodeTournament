@@ -78,3 +78,27 @@ Five games to train on with Godot and [S2W](https://github.com/EloiStree/2024_08
 Current Mini Games beeing made in Godot:   
 https://github.com/EloiStree/2025_11_20_CodeTournamentGodotMiniGames/tree/main  
 
+
+To Do:
+- Hack Games
+  - https://github.com/EloiStree/APIntCodeTournamentGodotHackGames
+    - https://github.com/EloiStree/APIntCodeTournamentHardwarePico2W
+    - https://github.com/EloiStree/2024_08_29_ScratchToWarcraft
+- Mini Games
+  - https://github.com/EloiStree/APIntCodeTournamentGodotMiniGames
+    - https://github.com/EloiStree/APIntCodeTournamentPythonRelay
+
+- Multiplayer
+  - https://github.com/EloiStree/HelloPicoGodotMQTT
+
+
+Unstore
+- https://github.com/EloiStree/2025_10_27_gdp_lan_code_tournament_abstraction
+- https://github.com/EloiStree/IID
+
+Delete or Do:
+- https://github.com/EloiStree/2026_01_01_PicoW_CodeTournamentClient
+- https://github.com/EloiStree/2026_01_01_ESP32_CodeTournamentClient
+
+Interact with wow:
+- https://github.com/EloiStree/2025_07_23_WowAddonTextToColorTelemetry
