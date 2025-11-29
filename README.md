@@ -105,3 +105,17 @@ Interact with wow:
 Interact with Godot and Unity3D
 - https://youtu.be/tiBhuXFUcpE
 - https://youtu.be/1WNZ1vsFwXY?t=260
+
+APInt Gate:
+- https://github.com/EloiStree/2024_05_11_GateIID_WS_Python
+- Send IID from Python https://github.com/EloiStree/2024_05_17_BasicPythonUdpWebsocketIID
+- 
+
+
+Open Macro Input:
+- https://github.com/EloiStree/OpenMacroInput
+  - MDI: https://github.com/EloiStree/2021_11_13_MidiToKeyboardActionDemo
+    - https://github.com/EloiStree/2024_05_17_MidiToIIDPython
+
+Old server APInt POC:
+- https://github.com/EloiStree/2024_04_04_IndexIntegerDateTunnelingRSA
