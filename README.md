@@ -84,6 +84,9 @@ To Do:
   - https://github.com/EloiStree/APIntCodeTournamentGodotHackGames
     - https://github.com/EloiStree/APIntCodeTournamentHardwarePico2W
     - https://github.com/EloiStree/2024_08_29_ScratchToWarcraft
+    - https://github.com/EloiStree/APIntCodeTournamentHardwareESP32S3/tree/main
+      - https://github.com/EloiStree/2023_06_21_ArduinoToX360
+      - https://github.com/EloiStree/2022_01_24_XOMI
 - Mini Games
   - https://github.com/EloiStree/APIntCodeTournamentGodotMiniGames
     - https://github.com/EloiStree/APIntCodeTournamentPythonRelay
