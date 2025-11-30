@@ -73,6 +73,14 @@ Five games to train on with Godot and [S2W](https://github.com/EloiStree/2024_08
 
 <img width="693" height="519" alt="image" src="https://github.com/user-attachments/assets/d7d4cc6f-07a6-4b69-8f14-68b2744cd101" />
 
+
+------------
+
+
+Inspiration
+[<img width="1238" height="687" alt="image" src="https://github.com/user-attachments/assets/d5455a23-29ee-4462-a000-c1b8509f7b86" />](https://youtu.be/5CaVhGTG8eA?t=7)
+
+
 ---------------
 
 Current Mini Games beeing made in Godot:   
