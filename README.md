@@ -17,10 +17,23 @@ But my aim is to make mixed of those.
 
 
 # Where to start ?
-Five games to train on with Godot and [S2W](https://github.com/EloiStree/2024_08_29_ScratchToWarcraft)  
+
+## 10 Seconds Ninja
+
+Learn the basic of what is a code:   
+<img width="1226" height="624" alt="image" src="https://github.com/user-attachments/assets/6d99e64c-66c3-4cbd-9336-55270ca290e1" />   
+
+## Liftoff
+
+Learn the move and rotate with code:   
+<img width="1100" height="675" alt="image" src="https://github.com/user-attachments/assets/1e8207e7-0293-47ef-a5cf-e588f984f720" />
 
 
-## Official tournament
+
+---------------
+
+
+## Future Tournament Type
 
 ### Online with Cryptography identification (or Twitch Play)
 
@@ -30,7 +43,7 @@ Five games to train on with Godot and [S2W](https://github.com/EloiStree/2024_08
 
 <img width="973" height="717" alt="image" src="https://github.com/user-attachments/assets/dcb2096a-7ecd-4f63-ab6c-f5c40f0a6024" />
 
-## WebGL Mini Games
+## Challenge on WebGL Mini-Games
 
 _Learn by playing some game only by code without controller_  
 <img width="1035" height="425" alt="image" src="https://github.com/user-attachments/assets/aa30600c-6cd1-4d16-bff6-9918998394c5" />  
@@ -38,71 +51,16 @@ _Learn by playing some game only by code without controller_
 
 ---------------
 
-# Context
-
-
-My name is Eloi Stree and I want to have fun organising coding tournaments and teach for a living.   
-
-I am going to organise two kinds of online tournaments:  
-* Godot Engine Tournament: We create the game of the tournament.   
-* Game Hack Tournament: We "hack" a game to propose only code speedruns.  
-
-**Next Hacked Game:**
-* 10 Second Ninja: Easy to learn
-
-**Next Godot Game:**
-* Artillery DOS XR: Because we need a Proof Of Concept that is easy to implement and can stand the test of time
-* 10 Seconds Drone : Copy of the concept 10 Seconds Ninja, a workshop to learn how to use Godot with drone.
-* Global Game Jam: Mystery box
-
-**For a living:**
-
-Outside of my simple curiosity:    
-<img width="600" height="599" alt="image" src="https://github.com/user-attachments/assets/df6f7c7b-f533-4af6-94a5-30748d019193" />  
-I am a freelance teacher through [SMArtBe](https://smartbe.be/en/), and this project is designed to teach in classrooms 😋.   
-I can't wait for the project to be ready enough to be used in an auditorium or in a cinema.  
-
-**Basic Mechanic:**
-
-The concept is "simple":
-Your code is dropped on a Pico 2W in CircuitPython, isolated on the network.
-
-* It receives UDP text and bytes as the context of the current game state.   
-  * You need to read the manual of the game to know how to use them.     
-* Your code must send keyboard and gamepad input in this [S2W format](https://github.com/EloiStree/2024_08_29_ScratchToWarcraft).
-  * If it is a Godot game, your input is simulated as a player to make an MMO-style contest.    
-  * If it is a hack tournament, your input is converted into real input on the device.    
-
-To publish your code, you need to hash and sign it with ECC or RSA.   
-The idea here is that it allows us to identify in whose name you are playing in the tournament.   
-
-I am a teacher and we are here to learn.   
-All those words 🤪 are going to become videos to teach you what they mean.   
-That is the point of this exercise.  
-
-**Contact Me:**
-Hope you have fun with us in this project.  
-Feel free to ping me on the Eloi Teaching Discord:  
-[https://discord.gg/pvRjyNQEDp](https://discord.gg/pvRjyNQEDp)  
+**Contact Me:**  
+Feel free to ping me on the Eloi Teaching Discord:    
+[https://discord.gg/pvRjyNQEDp](https://discord.gg/pvRjyNQEDp)    
 
 
 ---------------
 
 
-## How ?
+## Future Workshop ?
 
-As a single player offline  
-<img width="1017" height="644" alt="image" src="https://github.com/user-attachments/assets/02dcc949-6ee6-4271-bd33-5fd58ba41857" />
-
-As multiplayer online  
-<img width="1071" height="642" alt="image" src="https://github.com/user-attachments/assets/1ba8bf7a-fa99-4bd6-99ad-b208c4314ae2" />
-
-As multiplayer offline
-<img width="1000" height="733" alt="image" src="https://github.com/user-attachments/assets/78003f00-4165-4b9a-a409-f2b6c9a6f2b5" />
-
-
-Learn how to code with 10 Seconds Ninja and Pico2W
-<img width="919" height="457" alt="image" src="https://github.com/user-attachments/assets/af644068-5ee2-4986-ac7f-b9ed4f5304d5" />
 
 Learn how to code with Lifeoff and XInput ( ESP32S3 + Arduino )
 <img width="1278" height="784" alt="image" src="https://github.com/user-attachments/assets/02246645-be00-4875-88a0-f332c2628adf" />
@@ -120,14 +78,12 @@ Learn to finish the Death Mine in Wow on your private server
 <img width="1310" height="681" alt="image" src="https://github.com/user-attachments/assets/604c3d9d-dfe9-4089-bdc6-552ad2f14443" />
 
 
-
-
 ----------
 
-# Draft links
+# Random Unstore Links
 
-Current Mini Games beeing made in Godot:   
-https://github.com/EloiStree/2025_11_20_CodeTournamentGodotMiniGames/tree/main  
+Current Mini Games beeing made in Godot:     
+https://github.com/EloiStree/2025_11_20_CodeTournamentGodotMiniGames/tree/main    
 
 
 To Do:
