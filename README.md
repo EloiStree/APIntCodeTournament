@@ -1,19 +1,10 @@
-**Live DDNS**:   
-[code-tournament-output.ddns.net](https://code-tournament-output.ddns.net) • [code-tournament-input.ddns.net](https://code-tournament-input.ddns.net)  
-[apint.ddns.net](https://apint.ddns.net)• [apint-dev.ddns.net](https://apint-dev.ddns.net)    
-_It’s just a POC/WIP right now—no DDoS protection yet, so please go easy on it._  
+🌐[code-tournament-output.ddns.net](https://code-tournament-output.ddns.net), [code-tournament-input.ddns.net](https://code-tournament-input.ddns.net), [apint.ddns.net](https://apint.ddns.net), [apint-dev.ddns.net](https://apint-dev.ddns.net)    
 
 ----------------
 
 # APInt Code Tournament
 
 > Learn code 💻 by playing in game tournaments 😛.  
-
-
-**Offline vs realtime online**  
-
-Execute code of random user is dangerous, that why I am going in an offline LAN tournament.  
-But my aim is to make mixed of those.  
 
 
 # Where to start ?
