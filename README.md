@@ -115,11 +115,11 @@ Learn to finish the Death Mine in Wow on your private server
 
 <img width="973" height="717" alt="image" src="https://github.com/user-attachments/assets/dcb2096a-7ecd-4f63-ab6c-f5c40f0a6024" />
 
-## Store Mini Games 
+## WebGL Mini Games
 
-_Learn by playing some game only by code without controller_
+_Learn by playing some game only by code without controller_  
+<img width="1035" height="425" alt="image" src="https://github.com/user-attachments/assets/aa30600c-6cd1-4d16-bff6-9918998394c5" />  
 
-<img width="1188" height="776" alt="image" src="https://github.com/user-attachments/assets/d99ff1b5-2cf2-48c9-b4ef-6a7ae99a2250" />
 
 
 ------------
