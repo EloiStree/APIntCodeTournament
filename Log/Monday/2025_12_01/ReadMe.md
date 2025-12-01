@@ -21,12 +21,13 @@
 - Make a video of how to use Pico2W to play 10 Seconds Ninja
 - Add a belgian school calendar in my room ;)
    
-<img width="1243" height="638" alt="image" src="https://github.com/user-attachments/assets/6b374822-1ec8-4136-8233-e76c11ce079c" />
-- Godot -> Pico2W -> Keyboard
-- Godot -> Pico2W -> Gamepad ?
-  - If yes
-    - Godot -> Pico2W -> Gamepad Hollow Knight ?
-    - Godot -> Pico2W -> Liftoff ?
+<img width="1243" height="638" alt="image" src="https://github.com/user-attachments/assets/6b374822-1ec8-4136-8233-e76c11ce079c" />   
+
+- Godot -> Pico2W -> Keyboard   
+- Godot -> Pico2W -> Gamepad ?   
+  - If yes   
+    - Godot -> Pico2W -> Gamepad Hollow Knight ?   
+    - Godot -> Pico2W -> Liftoff ?   
 
 # Next week
 
