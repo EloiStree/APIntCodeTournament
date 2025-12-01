@@ -9,6 +9,38 @@ _It’s just a POC/WIP right now—no DDoS protection yet, so please go easy on 
 
 > Learn code 💻 by playing in game tournaments 😛.  
 
+
+**Offline vs realtime online**  
+
+Execute code of random user is dangerous, that why I am going in an offline LAN tournament.  
+But my aim is to make mixed of those.  
+
+
+# Where to start ?
+Five games to train on with Godot and [S2W](https://github.com/EloiStree/2024_08_29_ScratchToWarcraft)  
+
+
+## Official tournament
+
+### Online with Cryptography identification (or Twitch Play)
+
+<img width="1258" height="736" alt="image" src="https://github.com/user-attachments/assets/003ef0cd-409f-4212-b645-4ffa70bc535e" />
+
+### Offline code based in Python
+
+<img width="973" height="717" alt="image" src="https://github.com/user-attachments/assets/dcb2096a-7ecd-4f63-ab6c-f5c40f0a6024" />
+
+## WebGL Mini Games
+
+_Learn by playing some game only by code without controller_  
+<img width="1035" height="425" alt="image" src="https://github.com/user-attachments/assets/aa30600c-6cd1-4d16-bff6-9918998394c5" />  
+
+
+---------------
+
+# Context
+
+
 My name is Eloi Stree and I want to have fun organising coding tournaments and teach for a living.   
 
 I am going to organise two kinds of online tournaments:  
@@ -49,29 +81,12 @@ All those words 🤪 are going to become videos to teach you what they mean.
 That is the point of this exercise.  
 
 **Contact Me:**
-Hope you have fun with us in this project.
-Feel free to ping me on the Eloi Teaching Discord:
-[https://discord.gg/pvRjyNQEDp](https://discord.gg/pvRjyNQEDp)
+Hope you have fun with us in this project.  
+Feel free to ping me on the Eloi Teaching Discord:  
+[https://discord.gg/pvRjyNQEDp](https://discord.gg/pvRjyNQEDp)  
 
 
-**Offline vs realtime online**  
-
-Execute code of random user is dangerous, that why I am going in an offline LAN tournament.  
-But my aim is to make mixed of those.  
-
-
-# Where to start ?
-
-Let's learn to hack a game outside of the tournament with Python or/and Godot.
-
-Five games to train on with Godot and [S2W](https://github.com/EloiStree/2024_08_29_ScratchToWarcraft)  
-- 10 Seconds Ninja : Easy to start on  
-- Steath Bastard : Same but with a story  
-- Hollow Knight : To learn about gamepad simulation
-- Lifeoff : To learn what is the concept of telemetry
-- World of Warcraft : Let's kill Hogger and Edwin VanCleef with code
-
-<img width="693" height="519" alt="image" src="https://github.com/user-attachments/assets/d7d4cc6f-07a6-4b69-8f14-68b2744cd101" />
+---------------
 
 
 ## How ?
@@ -105,35 +120,11 @@ Learn to finish the Death Mine in Wow on your private server
 <img width="1310" height="681" alt="image" src="https://github.com/user-attachments/assets/604c3d9d-dfe9-4089-bdc6-552ad2f14443" />
 
 
-## Official tournament
-
-### Online with Cryptography identification (or Twitch Play)
-
-<img width="1258" height="736" alt="image" src="https://github.com/user-attachments/assets/003ef0cd-409f-4212-b645-4ffa70bc535e" />
-
-### Offline code based in Python
-
-<img width="973" height="717" alt="image" src="https://github.com/user-attachments/assets/dcb2096a-7ecd-4f63-ab6c-f5c40f0a6024" />
-
-## WebGL Mini Games
-
-_Learn by playing some game only by code without controller_  
-<img width="1035" height="425" alt="image" src="https://github.com/user-attachments/assets/aa30600c-6cd1-4d16-bff6-9918998394c5" />  
-
-
-
-------------
-
-
-Inspiration
-[<img width="1238" height="687" alt="image" src="https://github.com/user-attachments/assets/d5455a23-29ee-4462-a000-c1b8509f7b86" />](https://youtu.be/5CaVhGTG8eA?t=7)
-
-
----------------
 
 
 ----------
 
+# Draft links
 
 Current Mini Games beeing made in Godot:   
 https://github.com/EloiStree/2025_11_20_CodeTournamentGodotMiniGames/tree/main  
