@@ -23,7 +23,7 @@ Learn the move and rotate with code:
 
 # Global Gam Jam 2025
 
-Code Tournament on a game    
+Code Tournament on a created game    
 <img width="1064" height="785" alt="image" src="https://github.com/user-attachments/assets/961439cb-b7d2-4496-8796-f17c3eee9acc" />   
 
 
