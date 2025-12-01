@@ -12,13 +12,19 @@
 ## 10 Seconds Ninja
 
 Learn the basic of what is a code:   
-<img width="1226" height="624" alt="image" src="https://github.com/user-attachments/assets/6d99e64c-66c3-4cbd-9336-55270ca290e1" />   
+<img width="1226" height="624" alt="image" src="https://github.com/user-attachments/assets/6d99e64c-66c3-4cbd-9336-55270ca290e1" />     
 
 ## Liftoff
 
 Learn the move and rotate with code:   
-<img width="1100" height="675" alt="image" src="https://github.com/user-attachments/assets/1e8207e7-0293-47ef-a5cf-e588f984f720" />
+<img width="1100" height="675" alt="image" src="https://github.com/user-attachments/assets/1e8207e7-0293-47ef-a5cf-e588f984f720" />   
 
+
+
+# Global Gam Jam 2025
+
+Code Tournament on a game    
+<img width="1064" height="785" alt="image" src="https://github.com/user-attachments/assets/961439cb-b7d2-4496-8796-f17c3eee9acc" />   
 
 
 ---------------
