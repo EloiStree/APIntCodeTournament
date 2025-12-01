@@ -74,6 +74,54 @@ Five games to train on with Godot and [S2W](https://github.com/EloiStree/2024_08
 <img width="693" height="519" alt="image" src="https://github.com/user-attachments/assets/d7d4cc6f-07a6-4b69-8f14-68b2744cd101" />
 
 
+## How ?
+
+As a single player offline  
+<img width="1017" height="644" alt="image" src="https://github.com/user-attachments/assets/02dcc949-6ee6-4271-bd33-5fd58ba41857" />
+
+As multiplayer online  
+<img width="1071" height="642" alt="image" src="https://github.com/user-attachments/assets/1ba8bf7a-fa99-4bd6-99ad-b208c4314ae2" />
+
+As multiplayer offline
+<img width="1000" height="733" alt="image" src="https://github.com/user-attachments/assets/78003f00-4165-4b9a-a409-f2b6c9a6f2b5" />
+
+
+Learn how to code with 10 Seconds Ninja and Pico2W
+<img width="919" height="457" alt="image" src="https://github.com/user-attachments/assets/af644068-5ee2-4986-ac7f-b9ed4f5304d5" />
+
+Learn how to code with Lifeoff and XInput ( ESP32S3 + Arduino )
+<img width="1278" height="784" alt="image" src="https://github.com/user-attachments/assets/02246645-be00-4875-88a0-f332c2628adf" />
+
+Learn how to code from BLE Gamepad on phone with ESP32S3
+<img width="1058" height="690" alt="image" src="https://github.com/user-attachments/assets/6283c39c-08fd-4566-997f-3bc92bc6df2f" />
+
+Learn to automate trash game with BLE and Webcam reading ( ESP32S3 + Webcam )
+<img width="1048" height="686" alt="image" src="https://github.com/user-attachments/assets/499a3708-9142-4abd-9f5e-7635aee2fe55" />
+
+Learn to control games from your XR headset
+<img width="869" height="737" alt="image" src="https://github.com/user-attachments/assets/5e933152-4d78-426b-b5b0-64f84f8e30f1" />
+
+Learn to finish the Death Mine in Wow on your private server
+<img width="1310" height="681" alt="image" src="https://github.com/user-attachments/assets/604c3d9d-dfe9-4089-bdc6-552ad2f14443" />
+
+
+## Official tournament
+
+### Online with Cryptography identification (or Twitch Play)
+
+<img width="1258" height="736" alt="image" src="https://github.com/user-attachments/assets/003ef0cd-409f-4212-b645-4ffa70bc535e" />
+
+### Offline code based in Python
+
+<img width="973" height="717" alt="image" src="https://github.com/user-attachments/assets/dcb2096a-7ecd-4f63-ab6c-f5c40f0a6024" />
+
+## Store Mini Games 
+
+_Learn by playing some game only by code without controller_
+
+<img width="1188" height="776" alt="image" src="https://github.com/user-attachments/assets/d99ff1b5-2cf2-48c9-b4ef-6a7ae99a2250" />
+
+
 ------------
 
 
@@ -82,6 +130,10 @@ Inspiration
 
 
 ---------------
+
+
+----------
+
 
 Current Mini Games beeing made in Godot:   
 https://github.com/EloiStree/2025_11_20_CodeTournamentGodotMiniGames/tree/main  
